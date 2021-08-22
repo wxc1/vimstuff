@@ -5,8 +5,8 @@ call plug#begin('~/.vim/plugged')
 " Use release branch (recommend)
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'dracula/vim'
-Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
-Plug 'junegunn/fzf.vim'
+"Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
+"Plug 'junegunn/fzf.vim'
 
 " Make sure you use single quotes
 "
