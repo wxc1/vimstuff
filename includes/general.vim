@@ -24,7 +24,7 @@ set expandtab         " Use spaces instead of tabs
 set omnifunc=syntaxcomplete#Complete " Enable omnicompletion
 set nofoldenable
 set autowrite
-
+set pyx=3
 set tags=tags; " Look for tags files
 
 filetype indent on    " Use filetype indentation
